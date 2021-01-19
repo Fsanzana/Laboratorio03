@@ -1,0 +1,10 @@
+import java.util.Scanner;
+public class Persona {
+    public static String Nombre(){
+        Scanner t=new Scanner(System.in);
+        String nombre = "";
+        System.out.println("Ingrese nombre");
+        nombre=t.next();
+        return null;
+    }
+}
